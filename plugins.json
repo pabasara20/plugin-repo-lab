@@ -2,5 +2,6 @@
   "plugins": [
     "plugins/pabasara-plugin",
     "another-plugin"
+    "conflictdummy-plugin"
   ]
 }
