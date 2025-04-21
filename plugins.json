@@ -1,10 +1,6 @@
-[
-  {
-    "name": "Sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
-  },
-  {
-    "name": "pabasara-plugin",
-    "entry": "./plugins/pabasara-plugin/plugin.js"
-  }
-]
+{
+  "plugins": [
+    "plugins/pabasara-plugin",
+    "another-plugin"
+  ]
+}
