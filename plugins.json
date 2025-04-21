@@ -1,7 +1,7 @@
 {
   "plugins": [
     "plugins/pabasara-plugin",
-    "another-plugin"
-    "conflictdummy-plugin"
+    "another-plugin",
+    "local-plugin"
   ]
 }
