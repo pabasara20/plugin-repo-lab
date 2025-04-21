@@ -1,7 +1,6 @@
 {
   "plugins": [
     "plugins/pabasara-plugin",
-    "another-plugin",
-    "local-plugin"
-  ]
-}
+    "local-plugin",
+    "another-plugin"
+  
